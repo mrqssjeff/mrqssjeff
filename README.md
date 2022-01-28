@@ -1,4 +1,4 @@
-Welcome, I’m Jefferson Marques. @mrqssjeff
+Hi, I’m Jefferson Marques. @mrqssjeff
 I’m interested in coding, learning languages, football, anime, music, movies and series.
 I’m currently learning Python, HTML5, CSS3, JavaScript.
 I’m looking to collaborate on any project.
