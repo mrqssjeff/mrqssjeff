@@ -4,6 +4,7 @@
 <li>I’m looking to collaborate on any project.</li>
 <li>You can reach me on <a href="https://www.instagram.com/mrqssjeff/">Instagram</a>  </li>
 <li>I’m interested in coding, learning languages, football, literature, anime/manga, music, movies and series.</li>
+ </ul>
  <pre>
 <blockquote>
 The king is running.
@@ -17,4 +18,4 @@ Treading alone
 Towards the distance. </blockquote>
 </pre>
 <blockquote>A man's dream never dies!!! ♂️ </blockquote>
-</ul>
+
