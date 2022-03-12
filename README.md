@@ -1,5 +1,5 @@
 <ul>
-<li>Hi, I’m Jefferson Marques. @mrqssjeff</li>
+<li>Hi, I’m Jefferson Marques. I live in São Paulo, Brazil. I'm 27 years old. I'm a Software Engineer student at UNINTER.</li>
 <li>I’m currently learning Python, HTML5, CSS3, JavaScript.</li>
 <li>I’m looking to collaborate on any project.</li>
 <li>You can reach me on Instagram: https://www.instagram.com/mrqssjeff/</li>
